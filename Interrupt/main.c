@@ -4,7 +4,7 @@
  * Created: 18/02/2017 15:36:59
  * Author : Anggara Wijaya
  */ 
-#define F_CPU 8000000
+#define F_CPU 8000000UL
 
 #include <avr/io.h>
 #include <avr/interrupt.h>
